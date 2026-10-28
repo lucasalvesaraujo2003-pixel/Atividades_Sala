@@ -8,9 +8,9 @@ Departamento: Departamento de Engenharia Mecânica (ENM)
 
 Aluno: Lucas Alves Araujo
 
-Matrícula: [Insira sua matrícula aqui]
+Matrícula: 221021705
 
-Semestre Letivo: 2026/1
+Semestre Letivo: 2026/2
 
 Este é um repositório desenvolvido para a disciplina Cálculo Numérico Aplicado (CNA), buscando armazenar e organizar os algoritmos, relatórios e práticas desenvolvidos durante o semestre de 2026/1.
 
